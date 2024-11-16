@@ -1,6 +1,11 @@
-# Launching the `OverwatchExclusions.ps1` PowerShell Script
+#  Overwatch-Windows-Defender-Exclusions
+This powershell script adds exclusions to windows defender for Overwatch and Battle.net and their related folders. This does not include EVERYTHING overwatch touches, but the base folders and files. 
 
-This guide provides step-by-step instructions on how to run the `OverwatchExclusions.ps1` script in an elevated PowerShell window, how to change the execution policy to unrestricted, and then how to revert it back to the original policy.
+DISCLAIMER: This script is intended to modify Windows Defender exclusions for Overwatch.
+Use this script at your own risk. Adding exclusions can potentially reduce your computer's security.
+Ensure you understand the implications and have adequate security measures in place.
+
+Below you will find step-by-step instructions on how to run the `OverwatchExclusions.ps1` script in an elevated PowerShell window, how to change the execution policy to unrestricted, and then how to revert it back to the original policy.
 
 ## Prerequisites
 

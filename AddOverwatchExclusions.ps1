@@ -2,7 +2,6 @@ $userPath = $env:USERPROFILE
 $pathExclusions = New-Object System.Collections.ArrayList
 $processExclusions = New-Object System.Collections.ArrayList
 
-$pathExclusions.Add('C:\Program Files (x86)\Overwatch') > $null
 $pathExclusions.Add('C:\Program Files (x86)\Battle.net') > $null
 
 $pathExclusions.Add($userPath + '\AppData\Local\Battle.net') > $null

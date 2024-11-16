@@ -49,7 +49,7 @@ This guide provides step-by-step instructions on how to run the `OverwatchExclus
 
 4. **Run the `OverwatchExclusions.ps1` Script**
 
-   - Navigate to the directory where the `OverwatchExclusions.ps1` script is located. For example:
+   - Navigate to the directory where the `AddOverwatchExclusions.ps1` script is located. For example:
 
      ```powershell
      cd C:\Path\To\Script
